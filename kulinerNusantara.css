@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d28f8f;
+    color: rgb(211, 74, 74);
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.makanan {
+    background-color: #edc4c4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.makanan h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.makanan ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.makanan li {
+    margin-bottom: 20px;
+}
+
+.makanan h3 {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #cb9292;
+    color: rgb(228, 57, 57);
+    text-align: center;
+    padding: 10px 0;
+}
